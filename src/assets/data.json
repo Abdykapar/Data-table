@@ -1,0 +1,123 @@
+[
+  {
+    "key": "1",
+    "client": "John Brown",
+    "project": "Project",
+    "startDate": "11.09.2022",
+    "revenue": 100,
+    "status": "planning",
+    "percentCompletion": 60,
+    "margin": 0,
+    "isEditing": false
+  },
+  {
+    "key": "1",
+    "client": "Naida Wilcox",
+    "project": "Nulla soluta volupta",
+    "startDate": "12.09.2022",
+    "revenue": 120,
+    "status": "initiation",
+    "percentCompletion": 65,
+    "margin": -40
+  },
+  {
+    "key": "1",
+    "client": "Michelle Talley",
+    "project": "Nostrum dignissimos ",
+    "startDate": "08.10.1978",
+    "revenue": 110,
+    "status": "execution",
+    "percentCompletion": 65,
+    "margin": 210
+  },
+  {
+    "key": "1",
+    "client": "Knox Lucas",
+    "project": "Eveniet aperiam tem",
+    "startDate": "23.02.2009",
+    "revenue": 150,
+    "status": "monitoring",
+    "percentCompletion": 65,
+    "margin": 210
+  },
+  {
+    "key": "1",
+    "client": "Francis May",
+    "project": "Autem eaque perspici",
+    "startDate": "28.05.1990",
+    "revenue": 90,
+    "status": "closure",
+    "percentCompletion": 65,
+    "margin": 210
+  },
+  {
+    "key": "1",
+    "client": "Tanisha Dawson",
+    "project": "Consequatur ut ea l",
+    "startDate": "22.07.2000",
+    "revenue": 200,
+    "status": "monitoring",
+    "percentCompletion": 65,
+    "margin": 210
+  },
+  {
+    "key": "1",
+    "client": "Mia Simmons",
+    "project": "Et laboris voluptas ",
+    "startDate": "15.09.2018",
+    "revenue": 50,
+    "status": "planning",
+    "percentCompletion": 65,
+    "margin": 210
+  },
+  {
+    "key": "1",
+    "client": "Reed Houston",
+    "project": "Consequatur Est est",
+    "startDate": "01.01.2009",
+    "revenue": 160,
+    "status": "execution",
+    "percentCompletion": 65,
+    "margin": 210
+  },
+  {
+    "key": "1",
+    "client": "Alexandra Garner",
+    "project": "Vero quia fugit et ",
+    "startDate": "18.05.2004",
+    "revenue": 154,
+    "status": "planning",
+    "percentCompletion": 65,
+    "margin": 210
+  },
+  {
+    "key": "1",
+    "client": "Cheryl Martin",
+    "project": "Et quasi architecto ",
+    "startDate": "20.03.2018",
+    "revenue": 134,
+    "status": "planning",
+    "percentCompletion": 65,
+    "margin": 210
+  },
+  {
+    "key": "1",
+    "client": "Rhonda Booth",
+    "project": "Voluptatem Magnam l",
+    "startDate": "26.04.2005",
+    "revenue": 190,
+    "status": "planning",
+    "percentCompletion": 65,
+    "margin": 210
+  },
+  {
+    "key": "1",
+    "client": "Gwendolyn Hunter",
+    "project": "Omnis ipsam ut quam ",
+    "startDate": "23.02.2001",
+    "revenue": 220,
+    "status": "initiation",
+    "percentCompletion": 65,
+    "margin": 210
+  }
+]
